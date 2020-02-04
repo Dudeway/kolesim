@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'entypo-fontello';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/entypo-fontello/entypo-fontello.eot');
+  src: url('../fonts/entypo-fontello/entypo-fontello.eot#iefix') format('embedded-opentype'), url('../fonts/entypofontello/-fontello.svg#entypo-fontello') format('svg')
+}
+
+#top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before {
+  font-family: 'entypo-fontello'
+}
+
+@font-face {
+  font-family: 'fontello';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/fontello/fontello.eot');
+  src: url('../fonts/fontello/fontello.eot#iefix') format('embedded-opentype'), url('../fonts/fontello/fontello.woff') format('woff'), url('../fonts/fontello/fontello.ttf') format('truetype'), url('../fonts/fontello/fontello.svg#fontello') format('svg')
+}
+
+#top .avia-font-fontello, body .avia-font-fontello, html body [data-av_iconfont='fontello']:before {
+  font-family: 'fontello'
+}
